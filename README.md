@@ -3,10 +3,15 @@
 Роут:
 
 1 GET:/api/equipment
+
 2 GET:/api/equipment/{id}
+
 3 POST:/api/equipment
+
 4 PUT:/api/equipment/{id}
+
 5 DELETE:/api/equipment/{id}
+
 6 GET:/api/equipment-type
 
 Действие:
